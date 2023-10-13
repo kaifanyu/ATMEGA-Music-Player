@@ -38,4 +38,4 @@ Make sure you have the necessary development environment and toolchain for progr
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/kaifanyu/Embedded-Music-Player
+git clone https://github.com/kaifanyu/ATMEGA-Music-Player
