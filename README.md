@@ -16,10 +16,11 @@ This C program is designed to run on an ATMEGA32-16PU-ND microcontroller. It all
 
 ## Features
 
-- Pre-recorded music track (example: "Twinkle Twinkle Little Star").
-- Manual note input through a pinpad.
-- Support for different note durations (whole, half, quarter, etc.).
-- Pause and resume functionality.
+- Play and pause prerecorded songs.
+- Switch between different songs during playback.
+- Record and play custom music notes using the pinpad.
+- Utilize '#' to resume and 'D' to pause the currently playing song.
+- Display the currently playing song on the LCD screen.
 
 ## Setup
 
