@@ -7,8 +7,6 @@ Welcome to the ATMEGA32-16PU-ND Music Player repository! This project involves a
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
